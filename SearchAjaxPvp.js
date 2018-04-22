@@ -5,8 +5,7 @@
  */
 
 /* global ids, nombres, guardianes, nicks, i, id, nick */
-apikey = "a61931b6a6e1482396c1ea8ba3f58328";
-player = "by_doser";
+apikey = "miapi";
 var i, j;
 var param = [];
 param[0] = "2018-03-27";
